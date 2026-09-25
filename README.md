@@ -9,11 +9,11 @@
 
 | ![GUI画面](docs/screenshot-gui.png) | ![実行結果](docs/screenshot-result.png) |
 
-<!--
+
 | GUI画面(Renameモード) | 実行結果サマリー |
 |---|---|
 | ![GUI画面](docs/screenshot-gui.png) | ![実行結果](docs/screenshot-result.png) |
--->
+
 
 ### Before → After(ByExtensionモードの例)
 ```
