@@ -9,10 +9,9 @@
 
 ## スクリーンショット
 
-<!--
-  スクリーンショット準備中。準備でき次第、下記のコメントを外して
-  docs/screenshot-gui.png, docs/screenshot-result.png を追加してください。
+docs/screenshot-gui.png, docs/screenshot-result.png 
 
+<!--
 | GUI画面(Renameモード) | 実行結果サマリー |
 |---|---|
 | ![GUI画面](docs/screenshot-gui.png) | ![実行結果](docs/screenshot-result.png) |
@@ -104,15 +103,3 @@ C:\Downloads\                     C:\Downloads\
 - 処理前後のファイル数・容量サマリーをコンソールに表示
 
 ---
-
-## スクリーンショットの用意方法(GitHub公開用)
-
-1. リポジトリ直下に `docs` フォルダを作成
-2. テスト用フォルダ(整理前の状態)を `Win + Shift + S` で範囲スクリーンショット → `docs/screenshot-before.png` として保存
-3. GUIツールを実行し、パターン入力・プレビューが見えている状態のウィンドウをスクリーンショット → `docs/screenshot-gui.png`
-4. 実行完了後、結果サマリーが表示された状態のウィンドウをスクリーンショット → `docs/screenshot-result.png`
-5. 整理後のフォルダ(拡張子別に分かれた状態)もスクリーンショット → `docs/screenshot-after.png`
-6. 上記のREADME内の画像パスを実際のファイル名に合わせて調整
-
-Before/After の2枚は特に効果的です。「散らかったフォルダ」→「整理されたフォルダ」が一目でわかると、クライアントに「このスキルなら任せられそう」と伝わりやすくなります。
-
