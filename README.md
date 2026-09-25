@@ -7,9 +7,7 @@
 追加モジュール不要、PowerShell 標準コマンドレットのみで動作します。
 コマンドが苦手な方向けに、ボタン操作だけで使える GUI 版も同梱しています。
 
-## スクリーンショット
-
-docs/screenshot-gui.png, docs/screenshot-result.png 
+| ![GUI画面](docs/screenshot-gui.png) | ![実行結果](docs/screenshot-result.png) |
 
 <!--
 | GUI画面(Renameモード) | 実行結果サマリー |
